@@ -31,9 +31,8 @@ This Python script connects to a UniFi Express gateway to extract current DHCP l
 
 ### 1. Clone this repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-```
+git clone https://github.com/dqcarlos/Github-Files.git
+cd Github-Files
 
 2. Create and activate a virtual environment:
 ```bash
